@@ -1,1 +1,1 @@
-# test/success
+[skip ci]
